@@ -1,0 +1,11 @@
+h1 {outline-style: double; outline-color: white}
+p{
+	font-family: Arial, Helvetica, sans-serif;font-style: oblique;
+}
+h1{
+	text-shadow: 2px 2px 5px red;
+}
+img{
+	border-radius: 150px
+}
+body {px;color: white}
